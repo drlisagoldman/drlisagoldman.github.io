@@ -1,3 +1,8 @@
+.mainText {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
 .mainText li{
 	padding-bottom: 20px;
 }
