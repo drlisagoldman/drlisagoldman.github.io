@@ -1,0 +1,10 @@
+.largeCategory {
+	text-align: center;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.smallCategory {
+	font-weight: bold;
+	font-style: italic;
+}

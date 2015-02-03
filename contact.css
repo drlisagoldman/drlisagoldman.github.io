@@ -1,0 +1,20 @@
+.mainText {
+	padding-left: 25px;
+	padding-right: 25px;
+}
+
+.bolded {
+	padding-top: 20px;
+/*	padding-bottom: 20px;*/
+	font-weight: bold;
+}
+
+.italicText {
+	font-style: italic;
+}
+
+#map-canvas {
+	margin: 0 auto;
+	width:300px;
+	height:300px;
+}

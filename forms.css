@@ -1,0 +1,8 @@
+.mainText li{
+	padding-bottom: 20px;
+}
+
+.mainText li a {
+	text-decoration: none;
+	color: #fff;
+}

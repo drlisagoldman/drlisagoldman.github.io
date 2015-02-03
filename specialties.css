@@ -1,0 +1,14 @@
+.largeText {
+	font-size: 22px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.subList {
+	padding-left: 25px;
+}
+
+.subList li {
+	font-weight: normal;
+	text-decoration: none;
+}
