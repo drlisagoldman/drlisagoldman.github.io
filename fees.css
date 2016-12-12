@@ -4,12 +4,26 @@
 	text-decoration: underline;
 }
 
+.semiLargeText {
+	font-weight: bold;
+}
+
 .subList {
 	padding-top: 10px;
 	padding-left: 0px;
 }
 
 .subList li {
+	padding-bottom: 10px;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+.tabbedList {
+	padding-top: 10px;
+ }
+
+.tabbedList li {
 	padding-bottom: 10px;
 	font-weight: normal;
 	text-decoration: none;
