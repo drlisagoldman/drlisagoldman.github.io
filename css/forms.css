@@ -11,3 +11,10 @@
 	text-decoration: none;
 	color: #fff;
 }
+
+.formIcon {
+	/*mix-blend-mode: multiply;*/
+	vertical-align: middle;
+	padding-top: 5px;
+	width: 40px;
+}
