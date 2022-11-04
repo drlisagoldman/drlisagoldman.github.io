@@ -44,6 +44,8 @@ ul {
 .natureImg {
 	z-index: -1;
 	position: absolute;
+	width: 836px; 
+	height: 311px;
 	/*clip: rect(90px, 836px, 400px, 0px);*/
 	/*width: 100%;*/
 }
@@ -98,7 +100,11 @@ ul {
 
 .profilePic {
 	float: right;
-	padding: 10px;
+	padding-top: 30px;
+	padding-right: 30px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	/*padding: 20px;*/
 	width: 200px;
 }
 
